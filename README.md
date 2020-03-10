@@ -1,2 +1,0 @@
-# FirstSteppsInCodding
-First Steps
